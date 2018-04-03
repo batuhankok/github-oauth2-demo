@@ -32,4 +32,4 @@ let token_uri = "https://github.com/login/oauth/access_token"
 
 Hope you enjoy it and find it useful 🤓
 
-*Note: I could defined the hole project: "It just works". Sorry for that.*
+*Note: I could defined the whole project: "It just works". Sorry for that ✋*
